@@ -10,9 +10,9 @@ I'm currently looking for a job as a Junior Full Stack Developer or C#/.NET deve
 - ⚡ Fun fact: I have a M.A. degree in Social Psychology.
 
 <h2>TECHNOLOGIES</h2>
-- BACK-END: C#, .NET, Python, Flask
-- FRONT-END: TypeScript/JavaScript, React
-- DATABASES: SQL, PostgreSQL, MsSQL, LINQ
-- VERSION CONTROL: GIt, GitHub
-- DEPLOYMENT: Docker
-- IDE: Visual Studio, Visual Studio Code
+- BACK-END: C#, .NET, Python, Flask<br/>
+- FRONT-END: TypeScript/JavaScript, React<br/>
+- DATABASES: SQL, PostgreSQL, MsSQL, LINQ<br/>
+- VERSION CONTROL: GIt, GitHub<br/>
+- DEPLOYMENT: Docker<br/>
+- IDE: Visual Studio, Visual Studio Code<br/>
