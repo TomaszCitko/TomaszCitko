@@ -13,6 +13,6 @@ I'm currently looking for a job as a Junior Full Stack Developer or C#/.NET deve
 - BACK-END: C#, .NET, Python, Flask<br/>
 - FRONT-END: TypeScript/JavaScript, React<br/>
 - DATABASES: SQL, PostgreSQL, MsSQL, LINQ<br/>
-- VERSION CONTROL: GIt, GitHub<br/>
+- VERSION CONTROL: Git, GitHub<br/>
 - DEPLOYMENT: Docker<br/>
 - IDE: Visual Studio, Visual Studio Code<br/>
