@@ -1,5 +1,5 @@
 <h1 align="center"> TOMASZ CITKO </h1>
-<h3> I am able to create, manage and develop web applications using .NET/C# or Flask/Python for Back-end with SQL databases in MsSQL or PostgreSql plus JavaScript/TypeScript/React for Front-end and Git/GitHub for version control and collaboration.<br/>
+<h3> I am able to create, manage and develop web applications using .NET/C# or Flask/Python for Back-end with SQL databases in MsSQL or PostgreSql plus JavaScript/TypeScript/React for Front-end and Git/GitHub for version control and collaboration.<br/></h3>
 <br/>
 - 🔭 I’m currently looking for a job as a Full-Stack Software Developer or C#/.NET Developer.
 - 🌱 I’m expanding my knowledge of C#/.NET and TypeScript/React.
