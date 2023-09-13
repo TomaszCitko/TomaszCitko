@@ -17,7 +17,7 @@
 - IDE: Visual Studio, Visual Studio Code<br/>
 
 <h2>STATISTICS</h2>
-  <a href="https://www.codewars.com/users/Marcin%20Szkur%C5%82at">
+  <a href="https://www.codewars.com/users/TomaszCitko">
     <img align="center" src="https://www.codewars.com/users/TomaszCitko/badges/large" />
   </a>
   <br>
