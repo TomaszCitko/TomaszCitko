@@ -15,3 +15,15 @@
 - VERSION CONTROL: Git, GitHub<br/>
 - DEPLOYMENT: Docker<br/>
 - IDE: Visual Studio, Visual Studio Code<br/>
+
+<h2>STATISTICS</h2>
+  <a href="https://www.codewars.com/users/Marcin%20Szkur%C5%82at">
+    <img align="center" src="https://www.codewars.com/users/TomaszCitko/badges/large" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaszCitko&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <br>
+  <br>
